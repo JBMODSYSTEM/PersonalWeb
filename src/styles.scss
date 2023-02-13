@@ -8,3 +8,9 @@ body{
     font-family: sans-serif;
     padding: 90px 20px 0;
 }
+
+@media (max-width:802px){
+    body{
+        padding: 70px;
+    }
+}
